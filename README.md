@@ -4,4 +4,4 @@ Ligera aplicación ejecutable de 289KB (no requiere instalación).
 Solo eventos básicos, sin comandos, decodificación de texto decorativo, tamaño de texto ajustable, 4 colores disponibles. 
 Simple, funcional y práctico.
 
-Web: https://cosmos23389.wixsite.com/chatircapp
+Web: https://cosmos23389.wixsite.com/mini-ircapp
